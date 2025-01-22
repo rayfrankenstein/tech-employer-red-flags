@@ -104,6 +104,38 @@ Offshore/H1B manager or an excessive number of offshore/H1B employees (>1).
 
 If I’m going to have to constantly backfill unit tests to get anything done.
 
+Any team where the developers keep telling you how good they are.You know you’re going to be fixing code for months.
+
+Asking about my family
+
+Asking how I spend my free time
+
+Asking about my travel plans for the remainder of the year
+
+Talking about how we are a family
+
+Hinting on becoming submissive
+
+Failing to describe the team's development protocol
+
+Failing to accept my differences even if it achieves the target
+
+Spolsky’s 12 rules are a pretty good set of things to go by. One of the biggest red flags from that is if the place doesn’t have QA in some form.
+
+If they give you a desktop and not a laptop.
+
+Not using version control
+
+If the office furniture is all beat up, it's a sign that they're trying really hard to cost-cut. If you see that, you'll know that they'll work hard to keep salaries and bonuses down, and getting the equipment you need will be a constant battle.
+
+if they give you a coding challenge and tell you things about the code you write that matter and things that don't matter, if they ding you for something they told you doesn't matter to them, well, that's how it'll be when you work there - ie, they won't be truthful and you'll have to mind-read what they're looking for.
+
+If they ask you to do a take home, you do it, and then they demonstrate they never really looked at it, that's how it'll be when you work there. They'll demand you do things and then ignore it when you do.
+
+If your interview is with a single manager who offers you a position without ever getting the team's input on the choice ... well, you know.
+
+Tech debt is insane and these folks have no idea what they're doing. 
+ 
 ## What to ask
 
 "What have been your most technical or organizational challenges during your time at company X?"
@@ -136,6 +168,8 @@ I've managed to cut the shit by just outright asking people "would you say that 
 
 If the are doing agile, ask about the ceremonies they use(the more means they are micromanaging), how long are the stand ups(if they're supposed to be 15 mins but always go over, that's a bad sign), how big is the team(the bigger, the more you need to run), and who really is driving the work; the PO or the team (if it's the PO, run like hell)
 
+How does your org define non-functional requirements? How does your org manage technical debt? How is it prioritized along with regular sprint work? What were the three most recent technical debt items resolved? When were they resolved? What is your team’s intake process for new features? What is your team’s support process? What version of <insert lang/runtime here> are you on? Do you have an active modernization effort? What progress has been made in the last 6 months?
+
 --
 
 ## After you start
@@ -143,4 +177,8 @@ If the are doing agile, ask about the ceremonies they use(the more means they ar
 Laptop has the bare miniumum RAM
 
 Leadership does Agile but it hyper-concerned about predictability.
+
+If I start hearing I am not creating enough PRs every week.
+
+If I have team members who constantly want to call. I know I’ll be a permanent baby sitter.
 
